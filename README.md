@@ -45,3 +45,4 @@ If you have a paper you would like to present, use that one, otherwise feel free
 
 * [Fan et al. (Functional Linear (Meta) Analyses)](http://www.genetics.org/content/200/4/1089.full.pdf+html)
 * [Bryc et al. (Ancestry in the US)](The Genetic Ancestry of African Americans, Latinos, and European Americans across the United States)
+* [ Sullivan et al. (Atlas of Genetic Correlation)](http://biorxiv.org/content/early/2015/01/27/014498)
