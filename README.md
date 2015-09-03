@@ -20,10 +20,10 @@
   * **Date**:  Thursday, Sept 17-2015
   * ** Time**: 1:30-2:30
   * **Place**: East Conference Room
-
   * **Presenter(s)**: 
   * **Topic(s)**:      
   * **Materials:**    
+  
 --------------------------------------------
 
 
