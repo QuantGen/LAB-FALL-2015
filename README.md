@@ -1,4 +1,13 @@
-# Meetings QuantGen Group Fall 2015
+# Lab Meetings QuantGen Group Fall 2015
+
+[Group Website](http://quantgen.github.io/)
+
+
+This season we will be covering 8-10 papers plus 2-3 sections on software.
+
+Papers should either: (a) introduce novel metholdology that is relevant to the topics of research of interest of the group, or (b) be relevant to the particular applications you are working on. 
+
+Software: we will organize 2-3 sections where we will share what are we developing in terms of software. 
 
 
 ### Schedule
