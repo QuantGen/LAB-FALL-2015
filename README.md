@@ -43,5 +43,5 @@ Software: we will organize 2-3 sections where we will share what are we developi
 
 If you have a paper you would like to present, use that one, otherwise feel free to choose one from this list
 
-*
-*
+* [Fan et al. Functional Linear (Meta) Analyses](http://www.genetics.org/content/200/4/1089.full.pdf+html)
+* []()
