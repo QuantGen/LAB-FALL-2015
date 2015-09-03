@@ -3,7 +3,7 @@
 
 ### Schedule
 
----------------------------------
+-----------------------------------
  * **Date**:  Thursday, Sept. 10, 015
  * **Time**: 1:30-2:30
  * **Place**: East Conference Room.
@@ -15,7 +15,7 @@
   - [SymDMatrix](https://github.com/gdlc/symDMatrix)
   - [Parallel R](https://stat.ethz.ch/R-manual/R-devel/library/parallel/doc/parallel.pdf)
 
-------------------------------------
+--------------------------------------
 
   * **Date**:  Thursday, Oct. 22, 2015
   * **Time**: 1:30-2:30
