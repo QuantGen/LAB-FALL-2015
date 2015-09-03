@@ -5,6 +5,7 @@
 
 ---------------------------------
  * **Date**:  Thursday, Sept 10-2015
+ *
  * ** Time**: 1:30-2:30
  * **Place**: East Conference Room.
  * **Presenter(s)**: Alexander Grueneberg  & Gustavo de los Campos
