@@ -14,6 +14,7 @@
   - [BEDMatrix](https://github.com/QuantGen/BEDMatrix)
   - [SymDMatrix](https://github.com/gdlc/symDMatrix)
   - [Parallel R](https://stat.ethz.ch/R-manual/R-devel/library/parallel/doc/parallel.pdf)
+
 ------------------------------------
 
   * **Date**:  Thursday, Sept 17-2015
@@ -23,7 +24,7 @@
   * **Presenter(s)**: 
   * **Topic(s)**:      
   * **Materials:**    
-  --------------------------------------------
+--------------------------------------------
 
 
 
