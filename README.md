@@ -1,6 +1,6 @@
 # Lab Meetings QuantGen Group Fall 2015
 
-[Group Website](http://quantgen.github.io/)
+[Group's Website](http://quantgen.github.io/)
 
 
 This season we will be covering 8-10 papers plus 2-3 sections on software.
@@ -39,3 +39,9 @@ Software: we will organize 2-3 sections where we will share what are we developi
 
 
 
+### Possible articles
+
+If you have a paper you would like to present, use that one, otherwise feel free to choose one from this list
+
+*
+*
