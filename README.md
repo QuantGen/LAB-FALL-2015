@@ -39,7 +39,7 @@ Software: we will organize 2-3 sections where we will share what are we developi
 
 
 
-### Possible articles
+### Ideas for aticles
 
 If you have a paper you would like to present, use that one, otherwise feel free to choose one from this list
 
