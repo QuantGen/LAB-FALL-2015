@@ -47,6 +47,17 @@ Software: we will organize 2-3 sections where we will share what are we developi
     
 --------------------------------------------
 
+  * **Date**:  Thursday, Nov. 5, 2015
+  * **Time**: 1:30-2:30
+  * **Place**: East Conference Room
+  * **Presenter(s)**: Mengying
+  * **Topic(s)**: Research related to Gout     
+  * **Materials:**
+    * [Article]()
+    * [Software]()
+    
+--------------------------------------------
+
   * **Date**:  Thursday, Dec. 3, 2015
   * **Time**: 1:30-2:30
   * **Place**: East Conference Room
