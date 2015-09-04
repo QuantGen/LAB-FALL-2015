@@ -16,6 +16,15 @@ Software: we will organize 2-3 sections where we will share what are we developi
  * **Date**:  Thursday, Sept. 10, 015
  * **Time**: 1:30-2:30
  * **Place**: East Conference Room.
+ * **Presenter(s)**: Marco Lopez-Cruz
+ * **Topic(s)**:     To be determined  
+ * **Materials**:    
+
+--------------------------------------
+
+ * **Date**:  Thursday, Sept. 24, 015
+ * **Time**: 1:30-2:30
+ * **Place**: East Conference Room.
  * **Presenter(s)**: Alexander Grueneberg  & Gustavo de los Campos
  * **Topic(s)**:     Introductions/BGData and related software/Parallel computing in R.    
  * **Materials**:    
