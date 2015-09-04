@@ -33,6 +33,7 @@ Software: we will organize 2-3 sections where we will share what are we developi
  * **Presenter(s)**: Marco Lopez-Cruz
  * **Topic(s)**:     To be determined  
  * **Materials**:    To be determined 
+ 
 --------------------------------------
 
   * **Date**:  Thursday, Oct. 22, 2015
