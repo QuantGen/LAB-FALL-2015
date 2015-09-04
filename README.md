@@ -47,6 +47,16 @@ Software: we will organize 2-3 sections where we will share what are we developi
     
 --------------------------------------------
 
+  * **Date**:  Thursday, Dec. 3, 2015
+  * **Time**: 1:30-2:30
+  * **Place**: East Conference Room
+  * **Presenter(s)**: Agustin
+  * **Topic(s)**: Distribution of QTL additive and dominance effects in porcine F2 crosses     
+  * **Materials:**
+    * [Article](https://github.com/QuantGen/LAB-FALL-2015/blob/master/Augstin%20-%20Bennewitz_et_al-2010-Journal_of_Animal_Breeding_and_Genetics.pdf)
+    * [Software]()
+    
+--------------------------------------------
 
 
 ### Ideas for aticles
