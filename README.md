@@ -49,3 +49,4 @@ If you have a paper you would like to present, use that one, otherwise feel free
 * [Gerstberger, et al., Protein-binding RNA](http://www.nature.com/nrg/journal/v15/n12/full/nrg3813.html).
 * [Lu et al. high-throughput analysis of gene effects ] (http://www.nature.com/nrg/journal/vaop/ncurrent/full/nrg4008.html)
 * [ Jiang et al. (Misspecified Mixed Models)](http://arxiv.org/abs/1404.2355 )  [did we discuss it last Fall?]
+* [ Yang et al. (Mixed model assoc. analyses)](http://www.nature.com/ng/journal/v46/n2/full/ng.2876.html).
