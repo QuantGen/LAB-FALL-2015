@@ -58,6 +58,17 @@ Software: we will organize 2-3 sections where we will share what are we developi
     
 --------------------------------------------
 
+  * **Date**:  Thursday, Nov. 12, 2015
+  * **Time**: 1:30-2:30
+  * **Place**: East Conference Room
+  * **Presenter(s)**: Lian Lian
+  * **Topic(s)**:   Functional Linear (Meta) Analyses 
+  * **Materials:**: 
+    * [Article](http://www.genetics.org/content/200/4/1089.full.pdf+html)
+    * [Software]()
+    
+--------------------------------------------
+
   * **Date**:  Thursday, Dec. 3, 2015
   * **Time**: 1:30-2:30
   * **Place**: East Conference Room
