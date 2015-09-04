@@ -32,7 +32,7 @@ Software: we will organize 2-3 sections where we will share what are we developi
  * **Place**: East Conference Room.
  * **Presenter(s)**: Marco Lopez-Cruz
  * **Topic(s)**:     To be determined  
- * **Materials**:    
+ * **Materials**:    To be determined 
 --------------------------------------
 
   * **Date**:  Thursday, Oct. 22, 2015
