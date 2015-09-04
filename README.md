@@ -12,17 +12,9 @@ Software: we will organize 2-3 sections where we will share what are we developi
 
 ### Schedule
 
------------------------------------
- * **Date**:  Thursday, Sept. 10, 015
- * **Time**: 1:30-2:30
- * **Place**: East Conference Room.
- * **Presenter(s)**: Marco Lopez-Cruz
- * **Topic(s)**:     To be determined  
- * **Materials**:    
-
 --------------------------------------
 
- * **Date**:  Thursday, Sept. 24, 015
+ * **Date**:  Thursday, Sept. 10, 015
  * **Time**: 1:30-2:30
  * **Place**: East Conference Room.
  * **Presenter(s)**: Alexander Grueneberg  & Gustavo de los Campos
@@ -33,6 +25,14 @@ Software: we will organize 2-3 sections where we will share what are we developi
   - [SymDMatrix](https://github.com/gdlc/symDMatrix)
   - [Parallel R](https://stat.ethz.ch/R-manual/R-devel/library/parallel/doc/parallel.pdf)
 
+-----------------------------------
+
+ * **Date**:  Thursday, Sept. 24, 015
+ * **Time**: 1:30-2:30
+ * **Place**: East Conference Room.
+ * **Presenter(s)**: Marco Lopez-Cruz
+ * **Topic(s)**:     To be determined  
+ * **Materials**:    
 --------------------------------------
 
   * **Date**:  Thursday, Oct. 22, 2015
