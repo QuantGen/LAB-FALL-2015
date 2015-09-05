@@ -68,6 +68,16 @@ Software: we will organize 2-3 sections where we will share what are we developi
     * [Software]()
     
 --------------------------------------------
+  * **Date**:  Thursday, Nov. 19, 2015
+  * **Time**: 1:30-2:30
+  * **Place**: East Conference Room
+  * **Presenter(s)**: Sudha Veturi
+  * **Topic(s)**:   Genetic correlation for quantitative human traits
+  * **Materials:**: 
+    * [Article](http://biorxiv.org/content/early/2015/01/27/014498)
+    * [Software]()
+    
+--------------------------------------------
 
   * **Date**:  Thursday, Dec. 3, 2015
   * **Time**: 1:30-2:30
