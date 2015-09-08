@@ -103,3 +103,4 @@ If you have a paper you would like to present, use that one, otherwise feel free
 * [ Jiang et al. (Misspecified Mixed Models)](http://arxiv.org/abs/1404.2355 )  [did we discuss it last Fall?]
 * [ Yang et al. (Mixed model assoc. analyses)](http://www.nature.com/ng/journal/v46/n2/full/ng.2876.html).
 * Random Regressions: [Meyer (1997)](http://www.biomedcentral.com/content/pdf/1297-9686-30-3-221.pdf), [Kirkpatrick & Meyer (2004)](http://www.genetics.org/content/168/4/2295.short).
+
