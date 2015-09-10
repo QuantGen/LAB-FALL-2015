@@ -20,10 +20,14 @@ Software: we will organize 2-3 sections where we will share what are we developi
  * **Presenter(s)**: Alexander Grueneberg  & Gustavo de los Campos
  * **Topic(s)**:     Introductions/BGData and related software/Parallel computing in R.    
  * **Materials**:    
-  - [BGData](https://github.com/QuantGen/BGData)
-  - [BEDMatrix](https://github.com/QuantGen/BEDMatrix)
-  - [SymDMatrix](https://github.com/gdlc/symDMatrix)
-  - [Parallel R](https://stat.ethz.ch/R-manual/R-devel/library/parallel/doc/parallel.pdf)
+  - Software
+    - [BGData](https://github.com/QuantGen/BGData)
+    - [BEDMatrix](https://github.com/QuantGen/BEDMatrix)
+    - [SymDMatrix](https://github.com/gdlc/symDMatrix)
+  - Parallel Computing in R
+    - [Slides](https://docs.google.com/presentation/d/1fLX0d65FZAEOJ1MA-TZtvRSnnks45BfbsRzfWNuIXkI/edit?usp=sharing)
+    - [Code](https://gist.github.com/agrueneberg/2a9649bcf858193b69db)
+    - [parallel Package Vignette](https://stat.ethz.ch/R-manual/R-devel/library/parallel/doc/parallel.pdf)
 
 -----------------------------------
 
