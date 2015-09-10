@@ -48,6 +48,7 @@ Software: we will organize 2-3 sections where we will share what are we developi
   * **Materials:**
     * []()
     * [Slides]()
+    
 --------------------------------------
 
   * **Date**:  Thursday, Oct. 22, 2015
