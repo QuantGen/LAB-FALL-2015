@@ -28,15 +28,10 @@ Software: we will organize 2-3 sections where we will share what are we developi
 -----------------------------------
 
  * **Date**:  Thursday, Sept. 24, 015
- 
  * **Time**: 1:30-2:30
- 
  * **Place**: East Conference Room.
- 
  * **Presenter(s)**: Marco Lopez-Cruz
- 
  * **Topic(s)**:     Factor Analysis, High-dimensional mixed models
- 
  * **Materials**:    [Article](https://github.com/QuantGen/LAB-FALL-2015/blob/master/FA_Marco.pdf)
  
 --------------------------------------
@@ -96,7 +91,7 @@ Software: we will organize 2-3 sections where we will share what are we developi
 --------------------------------------------
 
 
-### Ideas for aticles
+### Ideas for articles
 
 If you have a paper you would like to present, use that one, otherwise feel free to choose one from this list
 
