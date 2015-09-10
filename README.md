@@ -25,9 +25,9 @@ Software: we will organize 2-3 sections where we will share what are we developi
     - [BEDMatrix](https://github.com/QuantGen/BEDMatrix)
     - [SymDMatrix](https://github.com/gdlc/symDMatrix) [Examples](https://github.com/gdlc/symDMatrix)
     - Parallel Computing in R
-    - [Slides](https://docs.google.com/presentation/d/1fLX0d65FZAEOJ1MA-TZtvRSnnks45BfbsRzfWNuIXkI/edit?usp=sharing)
-    - [Code](https://gist.github.com/agrueneberg/2a9649bcf858193b69db)
-    - [parallel Package Vignette](https://stat.ethz.ch/R-manual/R-devel/library/parallel/doc/parallel.pdf)
+      - [Slides](https://docs.google.com/presentation/d/1fLX0d65FZAEOJ1MA-TZtvRSnnks45BfbsRzfWNuIXkI/edit?usp=sharing)
+      - [Code](https://gist.github.com/agrueneberg/2a9649bcf858193b69db)
+      - [parallel Package Vignette](https://stat.ethz.ch/R-manual/R-devel/library/parallel/doc/parallel.pdf)
 
 -----------------------------------
 
