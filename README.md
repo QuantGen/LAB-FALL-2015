@@ -20,11 +20,18 @@ Software: we will organize 2-3 sections where we will share what are we developi
  * **Presenter(s)**: Alexander Grueneberg  & Gustavo de los Campos
  * **Topic(s)**:     Introductions/BGData and related software/Parallel computing in R.    
  * **Materials**:    
-  - Software
     - [BGData](https://github.com/QuantGen/BGData) 
     - [BEDMatrix](https://github.com/QuantGen/BEDMatrix)
     - [SymDMatrix](https://github.com/gdlc/symDMatrix) 
-  - Parallel Computing in R
+  
+-----------------------------------
+
+ * **Date**:  Thursday, Sept. 17, 2015
+ * **Time**: 12:00-1:00
+ * **Place**: East Conference Room.
+ * **Presenter(s)**: Alexander Grueneberg  
+ * **Topic(s)**:     Distributed computing in R using the parallel package
+ * **Materials**:    
     - [Slides](https://docs.google.com/presentation/d/1fLX0d65FZAEOJ1MA-TZtvRSnnks45BfbsRzfWNuIXkI/edit?usp=sharing)
     - [Code](https://gist.github.com/agrueneberg/2a9649bcf858193b69db)
     - [parallel Package Vignette](https://stat.ethz.ch/R-manual/R-devel/library/parallel/doc/parallel.pdf)
@@ -32,7 +39,7 @@ Software: we will organize 2-3 sections where we will share what are we developi
 -----------------------------------
 
  * **Date**:  Thursday, Sept. 24, 2015
- * **Time**: 1:30-2:30
+ * **Time**: 12:00-1:00
  * **Place**: East Conference Room.
  * **Presenter(s)**: Marco Lopez-Cruz
  * **Topic(s)**:     Factor Analysis, High-dimensional mixed models
@@ -42,7 +49,7 @@ Software: we will organize 2-3 sections where we will share what are we developi
 -----------------------------------
 
  * **Date**:  Thursday, Oct. 8, 2015
- * **Time**: 1:30-2:30
+ * **Time**: 12:00-1:00
  * **Place**: East Conference Room.
  * **Presenter(s)**: Hank Wu
  * **Topic(s)**:     cluster of gene expression
@@ -53,7 +60,7 @@ Software: we will organize 2-3 sections where we will share what are we developi
 --------------------------------------
 
   * **Date**:  Thursday, Oct. 15, 2015
-  * **Time**:  1:30-2:30
+  * **Time**:  12:00-1:00
   * **Place**: East Conference Room
   * **Presenter(s)**: Felix Enciso 
   * **Topic(s)**: GWAS with tetraploids: background theory, ideas and pilot aplication.  
@@ -64,7 +71,7 @@ Software: we will organize 2-3 sections where we will share what are we developi
 --------------------------------------
 
   * **Date**:  Thursday, Oct. 22, 2015
-  * **Time**: 1:30-2:30
+  * **Time**: 12:00-1:00
   * **Place**: East Conference Room
   * **Presenter(s)**: Yeni
   * **Topic(s)**: Fast GWAS using Ridge-regression type methods.     
@@ -75,7 +82,7 @@ Software: we will organize 2-3 sections where we will share what are we developi
 --------------------------------------------
 
   * **Date**:  Thursday, Nov. 5, 2015
-  * **Time**: 1:30-2:30
+  * **Time**: 12:00-1:00
   * **Place**: East Conference Room
   * **Presenter(s)**: Mengying
   * **Topic(s)**: Research related to Gout     
@@ -86,7 +93,7 @@ Software: we will organize 2-3 sections where we will share what are we developi
 --------------------------------------------
 
   * **Date**:  Thursday, Nov. 12, 2015
-  * **Time**: 1:30-2:30
+  * **Time**: 12:00-1:00
   * **Place**: East Conference Room
   * **Presenter(s)**: Lian Lian
   * **Topic(s)**:   Functional Linear (Meta) Analyses 
@@ -96,7 +103,7 @@ Software: we will organize 2-3 sections where we will share what are we developi
     
 --------------------------------------------
   * **Date**:  Thursday, Nov. 19, 2015
-  * **Time**: 1:30-2:30
+  * **Time**: 12:00-1:00
   * **Place**: East Conference Room
   * **Presenter(s)**: Sudha Veturi
   * **Topic(s)**:   Genetic correlation for quantitative human traits
@@ -107,7 +114,7 @@ Software: we will organize 2-3 sections where we will share what are we developi
 --------------------------------------------
 
   * **Date**:  Thursday, Dec. 3, 2015
-  * **Time**: 1:30-2:30
+  * **Time**: 12:00-1:00
   * **Place**: East Conference Room
   * **Presenter(s)**: Agustin
   * **Topic(s)**: Distribution of QTL additive and dominance effects in porcine F2 crosses     
