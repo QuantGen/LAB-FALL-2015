@@ -26,11 +26,11 @@ Software: we will organize 2-3 sections where we will share what are we developi
   
 -----------------------------------
 
- * **Date**:  Thursday, Sept. 17, 2015
+ * **Date**: Thursday, Sept. 17, 2015
  * **Time**: 12:00-1:00
  * **Place**: East Conference Room.
  * **Presenter(s)**: Alexander Grueneberg  
- * **Topic(s)**:     Distributed computing in R using the parallel package
+ * **Topic(s)**: Parallel computing in R using the parallel package
  * **Materials**:    
     - [Slides](https://docs.google.com/presentation/d/1fLX0d65FZAEOJ1MA-TZtvRSnnks45BfbsRzfWNuIXkI/edit?usp=sharing)
     - [Code](https://gist.github.com/agrueneberg/2a9649bcf858193b69db)
