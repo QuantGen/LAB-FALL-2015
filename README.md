@@ -48,17 +48,6 @@ Software: we will organize 2-3 sections where we will share what are we developi
  
 -----------------------------------
 
- * **Date**:  Thursday, Oct. 8, 2015
- * **Time**: 12:00-1:00
- * **Place**: East Conference Room.
- * **Presenter(s)**: Hank Wu
- * **Topic(s)**:     cluster of gene expression
- * **Materials:**
-    * []()
-    * [Slides]()
- 
---------------------------------------
-
   * **Date**:  Thursday, Oct. 15, 2015
   * **Time**:  12:00-1:00
   * **Place**: East Conference Room
@@ -79,7 +68,18 @@ Software: we will organize 2-3 sections where we will share what are we developi
     * [Article](https://github.com/QuantGen/LAB-FALL-2015/blob/master/Gualdron-Duarte%20et%20al%202014_Yeni.pdf)
     * [Software]()
     
---------------------------------------------
+--------------------------------------
+
+ * **Date**:  Thursday, Oct. 29, 2015
+ * **Time**: 12:00-1:00
+ * **Place**: East Conference Room.
+ * **Presenter(s)**: Hank Wu
+ * **Topic(s)**:     cluster of gene expression
+ * **Materials:**
+    * []()
+    * [Slides]()
+ 
+--------------------------------------
 
   * **Date**:  Thursday, Nov. 5, 2015
   * **Time**: 12:00-1:00
