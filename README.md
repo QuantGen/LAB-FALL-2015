@@ -70,17 +70,6 @@ Software: we will organize 2-3 sections where we will share what are we developi
     
 --------------------------------------
 
- * **Date**:  Thursday, Oct. 29, 2015
- * **Time**: 12:00-1:00
- * **Place**: East Conference Room.
- * **Presenter(s)**: Hank Wu
- * **Topic(s)**:     cluster of gene expression
- * **Materials:**
-    * []()
-    * [Slides]()
- 
---------------------------------------
-
   * **Date**:  Thursday, Nov. 5, 2015
   * **Time**: 12:00-1:00
   * **Place**: East Conference Room
