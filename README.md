@@ -44,7 +44,8 @@ Software: we will organize 2-3 sections where we will share what are we developi
  * **Presenter(s)**: Marco Lopez-Cruz
  * **Topic(s)**:     Factor Analysis, High-dimensional mixed models
  * **Materials**:    
- * [Article](https://github.com/QuantGen/LAB-FALL-2015/blob/master/FA_Marco.pdf)
+    * [Article](https://github.com/QuantGen/LAB-FALL-2015/blob/master/Marco_Paper_Factor%20Analysis.pdf)
+    * [Slides]()
  
 -----------------------------------
 
@@ -54,7 +55,6 @@ Software: we will organize 2-3 sections where we will share what are we developi
   * **Presenter(s)**: Felix Enciso 
   * **Topic(s)**: GWAS with tetraploids: background theory, ideas and pilot aplication.  
   * **Materials:**
-    * []()
     * [Slides]()
     
 --------------------------------------
