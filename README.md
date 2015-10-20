@@ -45,7 +45,7 @@ Software: we will organize 2-3 sections where we will share what are we developi
  * **Topic(s)**:     Factor Analysis, High-dimensional mixed models
  * **Materials**:    
     * [Article](https://github.com/QuantGen/LAB-FALL-2015/blob/master/Marco_Paper_Factor%20Analysis.pdf)
-    * [Slides]()
+    * [Slides](https://github.com/QuantGen/LAB-FALL-2015/blob/master/Marco_Slides_Factor%20Analysis.pdf)
  
 -----------------------------------
 
@@ -65,8 +65,8 @@ Software: we will organize 2-3 sections where we will share what are we developi
   * **Presenter(s)**: Yeni
   * **Topic(s)**: Fast GWAS using Ridge-regression type methods.     
   * **Materials:**
-    * [Article](https://github.com/QuantGen/LAB-FALL-2015/blob/master/Gualdron-Duarte%20et%20al%202014_Yeni.pdf)
-    * [Slides](https://github.com/QuantGen/LAB-FALL-2015/blob/master/Yeni_PPT_Rapid%20Screening.pdf)
+    * [Article](https://github.com/QuantGen/LAB-FALL-2015/blob/master/Yeni_Paper_Gualdron%20Duarte%20et%20al%202014.pdf)
+    * [Slides](https://github.com/QuantGen/LAB-FALL-2015/blob/master/Yeni_Slides_Rapid%20Screening.pdf)
     
 --------------------------------------
 
@@ -76,8 +76,8 @@ Software: we will organize 2-3 sections where we will share what are we developi
   * **Presenter(s)**: Mengying
   * **Topic(s)**: Research related to Gout     
   * **Materials:**
-    * [Article]()
-    * [Software]()
+    * [Slides]()
+
     
 --------------------------------------------
 
