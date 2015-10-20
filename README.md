@@ -66,7 +66,7 @@ Software: we will organize 2-3 sections where we will share what are we developi
   * **Topic(s)**: Fast GWAS using Ridge-regression type methods.     
   * **Materials:**
     * [Article](https://github.com/QuantGen/LAB-FALL-2015/blob/master/Gualdron-Duarte%20et%20al%202014_Yeni.pdf)
-    * [Software]()
+    * [Slides](https://github.com/QuantGen/LAB-FALL-2015/blob/master/Yeni_PPT_Rapid%20Screening.pdf)
     
 --------------------------------------
 
