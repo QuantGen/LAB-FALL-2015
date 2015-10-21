@@ -55,7 +55,7 @@ Software: we will organize 2-3 sections where we will share what are we developi
   * **Presenter(s)**: Felix Enciso 
   * **Topic(s)**: GWAS with tetraploids: background theory, ideas and pilot aplication.  
   * **Materials:**
-    * [Slides]()
+    * [Slides](https://github.com/QuantGen/LAB-FALL-2015/blob/master/Felix_Slides_Genomic%20Approximation.pdf)
     
 --------------------------------------
 
