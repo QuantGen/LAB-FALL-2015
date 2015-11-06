@@ -76,7 +76,8 @@ Software: we will organize 2-3 sections where we will share what are we developi
   * **Presenter(s)**: Mengying
   * **Topic(s)**: Research related to Gout     
   * **Materials:**
-    * [Slides]()
+    * [Slides](https://github.com/QuantGen/LAB-FALL-2015/blob/master/Mengying_Slides_Gout.pdf)
+    * [Appendix](https://github.com/QuantGen/LAB-FALL-2015/blob/master/Mengying_Appendix_Gout.xlsx)
 
     
 --------------------------------------------
