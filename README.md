@@ -86,9 +86,10 @@ Software: we will organize 2-3 sections where we will share what are we developi
   * **Time**: 12:00-1:00
   * **Place**: East Conference Room
   * **Presenter(s)**: Lian Lian
-  * **Topic(s)**:   Functional Linear (Meta) Analyses 
+  * **Topic(s)**: SKAT and Score test for multiple random effects
   * **Materials:**: 
-    * [Article](http://www.genetics.org/content/200/4/1089.full.pdf+html)
+    * [Article](https://github.com/QuantGen/LAB-FALL-2015/blob/master/Lian_Paper_SKAT.pdf)
+    * [Slides](https://github.com/QuantGen/LAB-FALL-2015/blob/master/Lian_Slides_SKAT.pdf)
     * [Software]()
     
 --------------------------------------------
