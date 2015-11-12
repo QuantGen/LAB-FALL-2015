@@ -90,7 +90,7 @@ Software: we will organize 2-3 sections where we will share what are we developi
   * **Materials:**: 
     * [Article](https://github.com/QuantGen/LAB-FALL-2015/blob/master/Lian_Paper_SKAT.pdf)
     * [Slides](https://github.com/QuantGen/LAB-FALL-2015/blob/master/Lian_Slides_SKAT.pdf)
-    * [Software]()
+    * [Software](https://github.com/lian0090/SKAT2)
     
 --------------------------------------------
   * **Date**:  Thursday, Nov. 19, 2015
