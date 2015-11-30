@@ -100,7 +100,7 @@ Software: we will organize 2-3 sections where we will share what are we developi
   * **Topic(s)**:   Genetic correlation for quantitative human traits
   * **Materials:**: 
     * [Article](http://biorxiv.org/content/early/2015/01/27/014498)
-    * [Software]()
+    * [Slides](https://sudhaveturi.shinyapps.io/LabMeeting)
     
 --------------------------------------------
 
