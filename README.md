@@ -2,6 +2,9 @@
 
 [Group's Website](http://quantgen.github.io/)
 
+### Contact
+   [Mengying Sun](msun@epi.msu.edu)
+   [Gustavo de los Campos](gustavoc@msu.edu)
 
 This season we will be covering 8-10 papers plus 2-3 sections on software.
 
