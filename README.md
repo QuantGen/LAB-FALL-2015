@@ -106,16 +106,6 @@ Software: we will organize 2-3 sections where we will share what are we developi
     * [Article](http://biorxiv.org/content/early/2015/01/27/014498)
     * [Slides](https://sudhaveturi.shinyapps.io/LabMeeting)
     
---------------------------------------------
-
-  * **Date**:  Thursday, Dec. 3, 2015
-  * **Time**: 12:00-1:00
-  * **Place**: East Conference Room
-  * **Presenter(s)**: Agustin
-  * **Topic(s)**:      
-  * **Materials:**
-    * [Article](https://github.com/QuantGen/LAB-FALL-2015/blob/master/Agustin_Paper_DNA%20Methylation.pdf)
-    * [Software]()
     
 --------------------------------------------
 
